@@ -1,3 +1,6 @@
 [submodule "atf-marvell"]
 	path = atf-marvell
 	url = git@github.com:nhz-io/atf-marvell.git
+[submodule "A3700-utils-marvell"]
+	path = A3700-utils-marvell
+	url = git@github.com:nhz-io/A3700-utils-marvell.git
