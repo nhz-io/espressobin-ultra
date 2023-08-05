@@ -4,3 +4,6 @@
 [submodule "A3700-utils-marvell"]
 	path = A3700-utils-marvell
 	url = git@github.com:nhz-io/A3700-utils-marvell.git
+[submodule "mv-ddr-marvell"]
+	path = mv-ddr-marvell
+	url = git@github.com:nhz-io/mv-ddr-marvell.git
