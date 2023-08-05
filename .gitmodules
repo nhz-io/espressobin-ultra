@@ -7,3 +7,6 @@
 [submodule "mv-ddr-marvell"]
 	path = mv-ddr-marvell
 	url = git@github.com:nhz-io/mv-ddr-marvell.git
+[submodule "u-boot-marvell"]
+	path = u-boot-marvell
+	url = git@github.com:nhz-io/u-boot-marvell.git
